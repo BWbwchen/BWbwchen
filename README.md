@@ -47,7 +47,7 @@ I am interested in software engineering, and my undergraduate research mainly fo
 * [Email](mailto:tim.chenbw@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/bo-wei-chen/)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BWbwchen&theme=vision-friendly-dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BWbwchen&theme=github-dark)
 <br />
 <br />
 
