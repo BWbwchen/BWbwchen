@@ -50,7 +50,7 @@ I am interested in software engineering, and my undergraduate research mainly fo
 * [LinkedIn](https://www.linkedin.com/in/bo-wei-chen/)
 
 
-![Bo-Wei Chen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BWbwchen&theme=vision-friendly-dark)
-<br />
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BWbwchen&layout=compact&theme=vision-friendly-dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BWbwchen&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BWbwchen&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BWbwchen&theme=github_dark)
