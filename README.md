@@ -42,14 +42,12 @@ I am interested in software engineering, and my undergraduate research mainly fo
 
 ### 📕 Related Documents
 * [My Resume](https://drive.google.com/file/d/1t8FV8S4jzDyio3ZeNEqPZfboJH8evSoM/view?usp=sharing)
+* [My Undergraduate Research](https://drive.google.com/file/d/1HpByl241IlU5HDt7_APYjcbWuynnbvOe/view?usp=sharing)
 
 ### 📞 Contact Me
 * [Email](mailto:tim.chenbw@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/bo-wei-chen/)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BWbwchen&theme=github-dark)
-<br />
-<br />
 
 ![Bo-Wei Chen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BWbwchen&theme=vision-friendly-dark)
 <br />
