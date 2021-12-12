@@ -26,15 +26,16 @@ I am interested in software engineering, and my undergraduate research mainly fo
 * Undergraduate student of NTHU [VSLab](https://aliensunmin.github.io/lab/info.html) (Instructor: Prof. Min Sun)
 
 ### 📝 Selected Projects
-* [MapReduce](https://github.com/BWbwchen/MapReduce):
+* [MapReduce](https://github.com/BWbwchen/MapReduce)
   
-  An easy-to-use Map Reduce Go parallel computing framework inspired by 2021 6.824 lab1. It supports multiple workers on a single machine right now.
+  An easy-to-use Map Reduce Go parallel computing framework. [pkg](https://pkg.go.dev/github.com/BWbwchen/MapReduce)
 
-* [Game cheating detector](https://github.com/Logi-Meichu/Meichu2020_Team_726):
+* [Game cheating detector](https://github.com/Logi-Meichu/Meichu2020_Team_726)
 
   Group of 5. Written in Python. An application that **detects whether players are cheating in the game by
   machine learning**. Won first prize out of 30 teams in a hackathon at NTHU.
-* [Tiny URL service](https://github.com/BWbwchen/tinyURL):
+  
+* [Tiny URL service](https://github.com/BWbwchen/tinyURL)
   
   Written in Go. A scalable, high-performance URL-shortener and API service built with Redis, mongoDB and
   Zookeeper. Deployed on rancher kubernetes and CI/CD pipeline on self-hosted Gitlab. [Medium](https://medium.com/@tim.chenbw/lets-build-a-tinyurl-service-in-golang-47deb5a7904f)
