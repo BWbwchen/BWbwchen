@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hello! I am Bo-Wei Chen, Tim. Welcome to my GitHub! 🚀🚀
 ### 🙋‍♂️ Self Introduction
-My name is Bo-Wei Chen, currently studying Computer Engineering in National Tsing Hua University. 
+My name is Bo-Wei Chen, currently a master student major in Computer Science in National Tsing Hua University. My research topic is EDA, mainly focus on physical design. (Instructor: Prof. Ting-Chi Wang)
 <br />
 I am interested in software engineering, and my undergraduate research mainly focuses on CV (computer vision) and Person ReID(Person Re-identification). 
 
