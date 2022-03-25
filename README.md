@@ -13,19 +13,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! I am Bo-Wei Chen, Tim. Welcome to my GitHub! 🚀🚀
-### 🙋‍♂️ Self Introduction
-My name is Bo-Wei Chen, currently a master student major in Computer Science in National Tsing Hua University. My research topic is EDA, mainly focus on physical design. (Instructor: Prof. Ting-Chi Wang)
-<br />
-I am interested in software engineering, and my undergraduate research mainly focuses on CV (computer vision) and Person ReID(Person Re-identification). 
+# Hello! I am Bo-Wei Chen, Tim. 🚀🚀
+## About me
+I’m Bo-Wei Chen, you can call me Tim.
 
-### 💻 Experience
-* Internship as a software engineer at Logitech.
-* Won the [**FIRST PLACE**](https://www.hccg.gov.tw/ch/home.jsp?id=48&parentpath=&mcustomize=municipalnews_view.jsp&toolsflag=Y&dataserno=202010250004&t=MunicipalNews&mserno=201601300020) in [MeiChu Hackathon Competition 2020](https://github.com/Logi-Meichu/Meichu2020_Team_726)
-* Teaching Assistant in EECS205002 Linear Algebra (Instructor: Prof. Che-Rung Lee)
-* Undergraduate student of NTHU [VSLab](https://aliensunmin.github.io/lab/info.html) (Instructor: Prof. Min Sun)
+I am a master student major in Computer Science in National Tsing Hua University. I study physical design in EDA and I love Long-distance running.
 
-### 📝 Selected Projects
+## 🎓 Education
+- **National Tsing Hua University**, HsinChu, Tawan | MS in Computer Science | Sep. 2022(expected) - Jun. 2024 (expected)
+
+  My research topic is EDA, mainly focus on physical design. (Instructor: Prof. Ting-Chi Wang)
+
+- **National Tsing Hua University**, HsinChu, Tawan | BS in Computer Science | Sep. 2018 - Jun. 2022 (expected)
+
+  My undergraduate [Research](https://drive.google.com/file/d/1HpByl241IlU5HDt7_APYjcbWuynnbvOe/view?usp=sharing") mainly focuses on CV (computer vision) and Person ReID(Person Re-identification). 
+
+
+## 💻 Work Experience
+### Software Engineer Intern at [Logitech](https://www.logitech.com/) | Jul. 2021 - Aug. 2021, Hsinchu, Taiwan
+
+  * Refactored and optimized the keyboard ghost key test tool with Python.
+  * Reduced 86.9% of execution time by paralleling the program and pruning.
+
+### Part-time Backend Engineer at Uniiqc | Mar. 2021 – Apr. 2021, Taipei, Taiwan
+
+  * Designed a RESTful B2B API and Database architecture. Implemented in Go.
+  * Launched the service on the GCP app engine.
+
+## 📝 Selected Projects
 * [MapReduce](https://github.com/BWbwchen/MapReduce)
   
   An easy-to-use Map Reduce Go parallel computing framework. [pkg](https://pkg.go.dev/github.com/BWbwchen/MapReduce)
@@ -39,13 +54,12 @@ I am interested in software engineering, and my undergraduate research mainly fo
   
   Written in Go. A scalable, high-performance URL-shortener and API service built with Redis, mongoDB and
   Zookeeper. Deployed on rancher kubernetes and CI/CD pipeline on self-hosted Gitlab. [Medium](https://medium.com/@tim.chenbw/lets-build-a-tinyurl-service-in-golang-47deb5a7904f)
-
-
-### 📕 Related Documents
+  
+## 📕 Related Documents
 * [My Resume](https://drive.google.com/file/d/1t8FV8S4jzDyio3ZeNEqPZfboJH8evSoM/view?usp=sharing)
 * [My Undergraduate Research](https://drive.google.com/file/d/1HpByl241IlU5HDt7_APYjcbWuynnbvOe/view?usp=sharing)
 
-### 📞 Contact Me
+## 📞 Contact Me
 * [Email](mailto:tim.chenbw@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/bo-wei-chen/)
 
