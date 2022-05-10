@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 -->
 # Hello! I am Bo-Wei Chen, Tim. 🚀🚀
 
-<p align="center"> 
-  Visitors Count<br>
-  <img src="https://profile-counter.glitch.me/bwbwchen/count.svg" />
-</p>
-
 ## About me
 I’m Bo-Wei Chen, you can call me Tim.
 
