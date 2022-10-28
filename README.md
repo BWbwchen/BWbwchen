@@ -20,7 +20,7 @@ I’m Bo-Wei Chen, you can call me Tim.
 
 I am a master student major in Computer Science in National Tsing Hua University. I study physical design in EDA and I love Long-distance running.
 
-![Metrics](https://metrics.lecoq.io/BWbwchen?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTaipei)
+![Metrics](https://metrics.lecoq.io/BWbwchen?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTaipei&config.display=large)
 
 
 ## 📞 Contact Me
