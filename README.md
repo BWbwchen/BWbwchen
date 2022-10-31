@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 -->
 # Hello! I am Bo-Wei Chen, Tim. 🚀🚀
 
-## About me
-I’m Bo-Wei Chen, you can call me Tim.
+I'm focused on **Distributed Systems** and **Physical Design - Placement**.
 
-I am a master student major in Computer Science in National Tsing Hua University. I study physical design in EDA and I love Long-distance running.
-
-This is my note: [Tim's Note](https://tim-note.vercel.app/)
+- To read more about me: [Blog](https://bwbwchen.github.io)
+- To find what I'm learning: [Note](https://tim-note.vercel.app)
+---
 
 
 ## 📞 Contact Me
