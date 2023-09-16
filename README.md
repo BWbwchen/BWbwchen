@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm focused on **Distributed Systems** and **Physical Design - Placement**.
 
-- To read more about me: [Blog](https://bwbwchen.github.io)
+- To read more about me: [My website](https://bwbwchen.github.io)
 - To find what I'm learning: [Note](https://tim-note.vercel.app)
 ---
