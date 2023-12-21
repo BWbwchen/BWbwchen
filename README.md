@@ -19,4 +19,5 @@ I'm focused on **Distributed Systems** and **Physical Design - Placement**.
 
 - To read more about me: [My website](https://bwbwchen.github.io)
 - To find what I'm learning: [Note](https://tim-note.vercel.app)
+- To read my blog: [Blog](https://bwbwchen.github.io/blog)
 ---
